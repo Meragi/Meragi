@@ -1,0 +1,226 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* ESTILOS PARA LA CABECERA, ASI COMO ID PARA LLAMAR A JS*/
+header{
+    display: flex;
+    height: 65px;
+}
+#buscar{
+    margin-top: 10px;
+    margin-left: 200px;
+    width: 700px;
+    height: 30px;
+}
+#btn_buscar{
+    height: 35px;
+    width: 60px;
+}
+#btn_cp{
+    width: 60px;
+}
+nav_1{
+    display: flex;
+}
+#logo{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    color:#00000080;
+}
+
+#logo_sesion{
+    color: white;
+    width: 30px;
+    height: 30px;   
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: 30px; 
+}
+#logo_carrito{
+    color: white;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 1275px;
+    margin-top: 30px;
+}
+#logo_iniciar{
+    color: white;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: 30px;
+}
+#codigo_postal{
+    color: white;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 980px;
+    margin-top: 30px;
+}
+.nav_1{
+width: 70%;
+float: left;
+height: 30px;
+background-color: rgb(120, 233, 163);
+color: white;
+}
+.nav_2{
+width: 30%;
+height: 30px;
+float: right;
+background-color: rgb(120, 233, 163);
+color: white;
+}
+
+.borde{
+    border-bottom: 5px solid white;
+}
+/* AQUI TERMINAN LOS ESTILOS PARA LA CABECERA, ASI COMO ID PARA LLAMAR A JS*/
+
+
+/* CONTENIDO PARA CADA MENU JS*/
+.todos{
+    width: 100%;
+    height: 800px;
+}
+.menu-index{
+ text-align: center;
+ line-height: 800px;
+ 
+}
+/*---------------------------------------------------------*/
+.menu-postal{
+
+}
+#codigo-postal-postal{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    
+}
+.formulario{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    height: 550px;  
+}
+/*---------------------------------------------------------*/
+
+.menu-cuenta{
+
+}
+#logo-iniciar-iniciar{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    
+}
+.iniciar{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    height: 550px;  
+}
+
+/*---------------------------------------------------------*/
+
+.menu-sesion{
+
+}
+#logo-sesion-sesion{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    
+}
+.sesion{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    height: 550px;  
+}
+/*---------------------------------------------------------*/
+.menu-compras{
+
+}
+#logo-carrito-carrito{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    
+}
+.compras{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    height: 550px;  
+}
+/*---------------------------------------------------------*/
+.menu-segundo{
+
+}
+/*---------------------------------------------------------*/
+.menu-tercero{
+
+}
+/*---------------------------------------------------------*/
+
+.menu-cuarto{
+
+}
+/*---------------------------------------------------------*/
+.menu-quinto{
+
+}
+/*---------------------------------------------------------*/
+.menu-sexto{
+
+}
+/*---------------------------------------------------------*/
+
+/*---------------------------------------------------------*/
+.menu-septimo{
+
+}
+/*---------------------------------------------------------*/
+.menu-octavo{
+
+}
+
+/*---------------------------------------------------------*/
+.menu-noveno{
+    
+}
+/*-----------------------------------------------------------*/
+
+/* FOOTER*/
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(117, 124, 120);
+    clear: both;
+}
+.bi{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+#iconos{
+    text-align: center;
+    
+}
+#titulo-footer{
+text-align: center;
+}
+
+  
